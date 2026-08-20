@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,45:17134A,75:302B63,100:00F5FF&height=200&section=header&text=RODRIGO%20NOVELLO&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVEDOR%20%7C%20MTA%3ASA%20%7C%20FRONT-END%20%7C%20LUA&descAlignY=61&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:17134A,70:302B63,100:00F5FF&height=210&section=header&text=RODRIGO%20NOVELLO&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=AI%20DEVELOPER%20%7C%20SOFTWARE%20%7C%20AUTOMA%C3%87%C3%83O&descAlignY=59&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=%3E+Inicializando+sistema...;%3E+Carregando+ambiente+de+desenvolvimento...;%3E+Desenvolvedor+Lua+%7C+MTA%3ASA;%3E+Front-end+Developer;%3E+JavaScript+%7C+TypeScript+%7C+TSX+%7C+Python;%3E+Transformando+ideias+em+sistemas;%3E+Sistema+online." alt="Animação de digitação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=%3E+Inicializando+ambiente+de+desenvolvimento...;%3E+Conectando+intelig%C3%AAncia+artificial...;%3E+AI-Assisted+Development;%3E+Criando+software+com+IA;%3E+Automatizando+processos;%3E+Transformando+ideias+em+produtos;%3E+Sistema+online." alt="Animação de digitação"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISUALIZAÇÕES&color=00F5FF&style=for-the-badge" alt="Visualizações do perfil"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISUALIZA%C3%87%C3%95ES&color=00F5FF&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=302B63&labelColor=050510" alt="Seguidores"/>
+<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=302B63&labelColor=050510"/>
 
-<img src="https://img.shields.io/github/stars/SEU_USUARIO?label=ESTRELAS&style=for-the-badge&color=00F5FF&labelColor=050510" alt="Estrelas"/>
+<img src="https://img.shields.io/github/stars/SEU_USUARIO?label=ESTRELAS&style=for-the-badge&color=00F5FF&labelColor=050510"/>
 
 </div>
 
@@ -20,188 +20,188 @@
 
 # `01` — SOBRE MIM
 
-```text
+```text id="4hax4r"
 ╔══════════════════════════════════════════════════════════════╗
-║                  PERFIL DO DESENVOLVEDOR                    ║
+║                    PERFIL DO DESENVOLVEDOR                  ║
 ╠══════════════════════════════════════════════════════════════╣
-║ NOME          : Rodrigo Novello                             ║
-║ PAÍS          : Brasil 🇧🇷                                  ║
-║ ÁREA PRINCIPAL: Desenvolvimento MTA:SA                     ║
-║ ESPECIALIDADE : Lua / Sistemas / Scripts / Front-end        ║
-║ LINGUAGENS    : Lua • JavaScript • TypeScript • TSX • Python║
-║ FOCO          : Sistemas • Interfaces • Experiências        ║
-║ STATUS        : Desenvolvendo                               ║
+║ NOME       : Rodrigo Novello                                ║
+║ PAÍS       : Brasil 🇧🇷                                     ║
+║ FOCO       : Desenvolvimento com Inteligência Artificial    ║
+║ ÁREA       : Software • Front-end • Automação • IA          ║
+║ LINGUAGENS : JavaScript • TypeScript • TSX • Python • Lua   ║
+║ STATUS     : Construindo                                   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-Sou desenvolvedor brasileiro com foco principal em **Lua para MTA:SA (Multi Theft Auto: San Andreas)** e desenvolvimento **Front-end**.
+Sou desenvolvedor brasileiro focado em **criar software utilizando Inteligência Artificial como parte central do processo de desenvolvimento**.
 
-Trabalho principalmente com **Lua, JavaScript, TypeScript, TSX e Python**, desenvolvendo desde sistemas e scripts para servidores MTA:SA até interfaces web modernas e aplicações interativas.
+Trabalho com **JavaScript, TypeScript, TSX, Python e Lua**, além de tecnologias modernas para desenvolvimento de aplicações e interfaces.
 
-Tenho interesse especial em transformar ideias em **sistemas funcionais, interfaces bem construídas e experiências digitais completas**.
+Meu foco atualmente não é apenas escrever código manualmente, mas utilizar **IA para aumentar velocidade, capacidade de experimentação, automação e qualidade no desenvolvimento de software**.
 
-```text
+```text id="j2e2q5"
 IDEIA
+  ↓
+IA + DESENVOLVEDOR
   ↓
 ARQUITETURA
   ↓
-DESENVOLVIMENTO
+CÓDIGO
   ↓
-INTERFACE
+TESTE
   ↓
 OTIMIZAÇÃO
   ↓
-RESULTADO
+PRODUTO
 ```
 
+Acredito que o futuro do desenvolvimento não está em escolher entre **programador ou IA**, mas em saber utilizar os dois de forma eficiente.
+
 <div align="center">
 
-### `"Código não é apenas escrever. É construir sistemas."`
+### `"Não estou apenas aprendendo a programar. Estou aprendendo a construir mais rápido com IA."`
 
 </div>
 
 ---
 
-# `02` — ÁREA DE ATUAÇÃO
+# `02` — FOCO PRINCIPAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,js,ts,react,vite,tailwind,python,html,css" />
+<img src="https://img.shields.io/badge/AI%20DEVELOPMENT-00F5FF?style=for-the-badge&logo=openai&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/AUTOMA%C3%87%C3%83O-302B63?style=for-the-badge&logo=robot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-00F5FF?style=for-the-badge&logo=code&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/FRONT--END-302B63?style=for-the-badge&logo=react&logoColor=white"/>
 
 </div>
 
-<br>
+### Inteligência Artificial
 
-| Área                | Tecnologias                                          |
-| ------------------- | ---------------------------------------------------- |
-| **MTA:SA**          | Lua, Meta.xml, ACL, Events, Resources, Client/Server |
-| **Front-end**       | HTML, CSS, JavaScript, TypeScript, TSX               |
-| **Interfaces**      | React, Vite, Tailwind CSS                            |
-| **Programação**     | Lua, JavaScript, TypeScript, Python                  |
-| **Versionamento**   | Git, GitHub                                          |
-| **Desenvolvimento** | Visual Studio Code, NPM, APIs                        |
+* Desenvolvimento assistido por IA
+* Engenharia de prompts
+* Geração e refatoração de código
+* Arquitetura assistida por IA
+* Automação de tarefas
+* Prototipação rápida
+* Integração de IA em aplicações
+* Exploração de novas ferramentas de desenvolvimento
+
+### Desenvolvimento de Software
+
+* Aplicações web
+* Sistemas administrativos
+* SaaS
+* Dashboards
+* APIs
+* Interfaces modernas
+* Automação
+* Integrações
 
 ---
 
-# `03` — MTA:SA
+# `03` — STACK
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MTA%3ASA-LUA-00F5FF?style=for-the-badge&logo=lua&logoColor=black"/>
+### LINGUAGENS
 
-<img src="https://img.shields.io/badge/SCRIPTS-SISTEMAS-302B63?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=js,ts,tsx,python,lua,html,css"/>
 
-<img src="https://img.shields.io/badge/CLIENT%20%2F%20SERVER-DEVELOPMENT-00F5FF?style=for-the-badge&logo=serverfault&logoColor=black"/>
+<br><br>
+
+### FRONT-END
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+
+<br><br>
+
+### FERRAMENTAS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma"/>
 
 </div>
 
-Minha principal área de desenvolvimento é o ecossistema **MTA:SA**, utilizando Lua para criação de recursos, sistemas e experiências personalizadas para servidores.
+---
 
-### Principais áreas
+# `04` — COMO EU DESENVOLVO
 
-```text
+```text id="f4o2b8"
 ┌──────────────────────────────────────────────────────────────┐
-│                       MTA:SA DEVELOPMENT                     │
+│                     AI DEVELOPMENT LOOP                      │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  Lua                                                         │
-│  ├── Scripts Client / Server                                 │
-│  ├── Eventos e comunicação                                   │
-│  ├── Sistemas personalizados                                 │
-│  ├── Resources                                                │
-│  ├── Interfaces                                               │
-│  ├── Integrações                                              │
-│  └── Otimização                                               │
-│                                                              │
-│  GAME DEVELOPMENT                                             │
-│  ├── Sistemas de gameplay                                    │
-│  ├── HUD / Interfaces                                         │
-│  ├── Mecânicas                                                │
-│  ├── Administração                                             │
-│  └── Experiências multiplayer                                 │
+│  01  IDEA                                                    │
+│      │                                                       │
+│      ▼                                                       │
+│  02  RESEARCH                                                │
+│      │                                                       │
+│      ▼                                                       │
+│  03  AI ASSISTANCE                                           │
+│      │                                                       │
+│      ▼                                                       │
+│  04  ARCHITECTURE                                            │
+│      │                                                       │
+│      ▼                                                       │
+│  05  IMPLEMENTATION                                          │
+│      │                                                       │
+│      ▼                                                       │
+│  06  TESTING                                                 │
+│      │                                                       │
+│      ▼                                                       │
+│  07  OPTIMIZATION                                            │
+│      │                                                       │
+│      ▼                                                       │
+│  08  DEPLOYMENT                                              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
-
-# `04` — FRONT-END
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tsx,react,vite,tailwind" />
-
-</div>
-
-Desenvolvimento de interfaces modernas com foco em:
-
-* Interfaces responsivas
-* Experiência do usuário
-* Componentização
-* Sistemas administrativos
-* Dashboards
-* Landing pages
-* Aplicações web
-* Animações e microinterações
-* Integração com APIs
-* Arquiteturas modernas de Front-end
+O objetivo é usar IA não apenas para gerar código, mas como uma **camada de aceleração em praticamente todo o ciclo de desenvolvimento**.
 
 ---
 
-# `05` — STACK TECNOLÓGICA
-
-<div align="center">
-
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=lua,js,ts,python,html,css" />
-
-<br><br>
-
-### Front-end
-
-<img src="https://skillicons.dev/icons?i=react,tsx,vite,tailwind" />
-
-<br><br>
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
-
-</div>
-
----
-
-# `06` — PROJETOS
+# `05` — PROJETOS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## `01` — Sistemas MTA:SA
+## `01` — SigaAgendamentos
 
-Desenvolvimento de sistemas e recursos personalizados para servidores MTA:SA.
+Sistema de gerenciamento e agendamento desenvolvido para operações empresariais.
 
-**Tecnologias**
+**Stack**
 
-`Lua` `MTA:SA` `Client` `Server`
+`React` `TypeScript` `Vite` `Tailwind`
 
-<img src="https://img.shields.io/badge/MTA%3ASA-EM%20DESENVOLVIMENTO-00F5FF?style=for-the-badge&logo=lua&logoColor=black"/>
+**Conceito**
+
+Sistema web moderno com gerenciamento operacional, Kanban, cronogramas, estatísticas e ordens de serviço.
+
+<img src="https://img.shields.io/badge/STATUS-ATIVO-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-## `02` — Sistemas Web
+## `02` — CRM SaaS
 
-Desenvolvimento de aplicações web, dashboards e sistemas administrativos com interfaces modernas.
+Conceito de uma plataforma CRM voltada para prestadores de serviços e empresas.
 
-**Tecnologias**
+**Stack**
 
-`React` `TypeScript` `TSX` `Vite`
+`React` `TypeScript` `Node.js` `PostgreSQL`
 
-<img src="https://img.shields.io/badge/WEB-DEVELOPMENT-302B63?style=for-the-badge&logo=react&logoColor=white"/>
+**Conceito**
+
+Automação de processos, gerenciamento de clientes, agendamentos e operações.
+
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-302B63?style=for-the-badge&logo=github&logoColor=white"/>
 
 </td>
 
@@ -211,29 +211,33 @@ Desenvolvimento de aplicações web, dashboards e sistemas administrativos com i
 
 <td width="50%" valign="top">
 
-## `03` — SigaAgendamentos
+## `03` — AI Dubbing
 
-Sistema de gerenciamento e agendamento desenvolvido para operações empresariais.
+Conceito de uma aplicação de dublagem assistida por Inteligência Artificial.
 
 **Tecnologias**
 
-`React` `TypeScript` `Vite` `Tailwind`
+`AI` `Python` `Audio` `Speech` `Automation`
 
-<img src="https://img.shields.io/badge/STATUS-ATIVO-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+**Objetivo**
+
+Utilizar IA para auxiliar usuários na criação e sincronização de dublagens.
+
+<img src="https://img.shields.io/badge/AI%20PROJECT-EXPLORANDO-00F5FF?style=for-the-badge&logo=ai&logoColor=black"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-## `04` — Projetos Experimentais
+## `04` — AI Experiments
 
-Projetos voltados para exploração de novas tecnologias, interfaces, automações e conceitos de software.
+Projetos experimentais desenvolvidos para testar novas possibilidades envolvendo IA, automação e desenvolvimento de software.
 
 **Tecnologias**
 
-`JavaScript` `TypeScript` `Python` `Lua`
+`Python` `JavaScript` `TypeScript` `AI`
 
-<img src="https://img.shields.io/badge/EXPERIMENTAL-RESEARCH-302B63?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-302B63?style=for-the-badge&logo=github&logoColor=white"/>
 
 </td>
 
@@ -242,35 +246,58 @@ Projetos voltados para exploração de novas tecnologias, interfaces, automaçõ
 
 ---
 
-# `07` — OBJETIVOS ATUAIS
+# `06` — TECNOLOGIAS
 
-```bash
-╭──────────────────────────────────────────────────────────────╮
-│ RODRIGO@DEV:~$ ./objetivos                                  │
-╰──────────────────────────────────────────────────────────────╯
+<div align="center">
 
-[████████████████████] MTA:SA / LUA
-[██████████████████░░] FRONT-END
-[████████████████░░░░] JAVASCRIPT
-[███████████████░░░░░] TYPESCRIPT / TSX
-[████████████░░░░░░░░] PYTHON
-[██████████░░░░░░░░░░] ARQUITETURA
-[████████░░░░░░░░░░░░] AUTOMAÇÃO
+<img src="https://skillicons.dev/icons?i=js,ts,tsx,python,lua,react,vite,tailwind,html,css,git,github,vscode"/>
 
-> Criar sistemas cada vez mais completos
-> Evoluir em desenvolvimento Front-end
-> Criar recursos avançados para MTA:SA
-> Aprimorar arquitetura e organização de código
-> Explorar novas tecnologias
-> Transformar ideias em produtos reais
+</div>
 
-STATUS: ONLINE
-PROCESSO: EM EVOLUÇÃO
+<br>
+
+```text id="zqj5uj"
+JAVASCRIPT      ████████████████████
+TYPESCRIPT      ██████████████████░░
+TSX / REACT     █████████████████░░░
+PYTHON          ███████████████░░░░░
+LUA             ███████████████░░░░░
+HTML / CSS      ████████████████████
+GIT / GITHUB    █████████████████░░░
 ```
 
 ---
 
-# `08` — ESTATÍSTICAS DO GITHUB
+# `07` — OBJETIVOS ATUAIS
+
+```bash id="w8g0rj"
+╭──────────────────────────────────────────────────────────────╮
+│ RODRIGO@AI-DEV:~$ ./objetivos                               │
+╰──────────────────────────────────────────────────────────────╯
+
+[████████████████████] DESENVOLVIMENTO COM IA
+[██████████████████░░] AUTOMAÇÃO
+[█████████████████░░░] SOFTWARE
+[████████████████░░░░] FRONT-END
+[███████████████░░░░░] JAVASCRIPT / TYPESCRIPT
+[██████████████░░░░░░] PYTHON
+[███████████░░░░░░░░░] ARQUITETURA
+
+> Criar software utilizando IA
+> Aumentar produtividade através de automação
+> Criar produtos e SaaS
+> Explorar novas ferramentas de IA
+> Integrar IA em aplicações reais
+> Evoluir arquitetura e engenharia de software
+> Transformar ideias em produtos funcionais
+
+STATUS: ONLINE
+MODO: AI-ASSISTED DEVELOPMENT
+```
+
+---
+
+# `08` — GITHUB STATS
 
 <div align="center">
 
@@ -290,7 +317,7 @@ PROCESSO: EM EVOLUÇÃO
 
 ---
 
-# `09` — ATIVIDADE
+# `09` — ATIVIDADE NO GITHUB
 
 <div align="center">
 
@@ -314,18 +341,18 @@ PROCESSO: EM EVOLUÇÃO
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Animação Snake das contribuições"/>
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Animação das contribuições"/>
 
 </div>
 
 ---
 
-# `12` — CONTATO
+# `12` — CONECTE-SE
 
 <div align="center">
 
 <a href="https://www.instagram.com/rodrigonovello_1/">
-<img src="https://img.shields.io/badge/Instagram-rodrigonovello__1-0D1117?style=for-the-badge&logo=instagram&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Instagram-@rodrigonovello__1-0D1117?style=for-the-badge&logo=instagram&logoColor=00F5FF"/>
 </a>
 
 <a href="https://discord.com/users/">
@@ -338,49 +365,35 @@ PROCESSO: EM EVOLUÇÃO
 
 </div>
 
-<br>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              CONEXÃO COM O DESENVOLVEDOR                   ║
-║                                                              ║
-║  Instagram : @rodrigonovello_1                              ║
-║  Discord   : streetwise_diigo                               ║
-║  GitHub    : Desenvolvimento • Código • Projetos            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:302B63,75:17134A,100:050510&height=140&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:302B63,70:17134A,100:050510&height=140&section=footer&animation=fadeIn" width="100%"/>
 
-### `SISTEMA ONLINE`
-
-```text
-[ CONEXÃO ESTABELECIDA ]
-[ PERFIL CARREGADO ]
-[ TODOS OS SISTEMAS OPERACIONAIS ]
-
-Desenvolvido por Rodrigo Novello
-
-Lua • MTA:SA • JavaScript • TypeScript • TSX • Python
-Front-end • Sistemas • Tecnologia
-
-© 2026 Rodrigo Novello
+```text id="q7j7a1"
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  SISTEMA ONLINE                             ║
+║                                                              ║
+║  [ IA ]              CONNECTED                              ║
+║  [ CODE ]            RUNNING                                ║
+║  [ AUTOMATION ]      ACTIVE                                 ║
+║  [ DEVELOPER ]       ONLINE                                ║
+║                                                              ║
+║                  Rodrigo Novello                            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://img.shields.io/badge/BRASIL-🇧🇷-00F5FF?style=flat-square"/>
+**IA • Software • Automação • Front-end • Tecnologia**
 
-<img src="https://img.shields.io/badge/SISTEMA-ONLINE-00F5FF?style=flat-square"/>
+<br>
 
-<img src="https://img.shields.io/badge/STATUS-DESENVOLVENDO-302B63?style=flat-square"/>
+<img src="https://img.shields.io/badge/BRASIL-00F5FF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AI%20DEVELOPMENT-ONLINE-00F5FF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-302B63?style=flat-square"/>
 
 </div>
